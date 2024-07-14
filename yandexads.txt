@@ -1,2 +1,1 @@
-||storage.mds.yandex.net^$third-party
-||storage.mds.yandex.net
+127.0.0.1 storage.mds.yandex.net
