@@ -1,1 +1,2 @@
-https://storage.mds.yandex.net/
+||storage.mds.yandex.net^$third-party
+||storage.mds.yandex.net
